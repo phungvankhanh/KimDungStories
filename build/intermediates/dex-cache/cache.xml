@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HTMPC\Documents\GitHub\OpenEducation1703\KimDungStories\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\HTMPC\Documents\GitHub\OpenEducation1703\KimDungStories\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e3ffb39c0d50dbd7d99e87d6f3b47f6034ac887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HTMPC\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\HTMPC\Documents\GitHub\OpenEducation1703\KimDungStories\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_a102e0e77b73a9e2deb5b941a4001431809ad351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HTMPC\Documents\GitHub\OpenEducation1703\KimDungStories\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a41e6cd68ed661969633c8dfc91757fb6cd8b39">
+        <dex dex="C:\Users\HTMPC\Documents\GitHub\OpenEducation1703\KimDungStories\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bed309b5d30e19f098036807d9b02eee5902b284\classes.dex" />
+    </item>
+
+</items>
